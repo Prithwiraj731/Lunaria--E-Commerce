@@ -415,46 +415,6 @@ Authorization: Bearer <your_jwt_token>
 
 ---
 
-## 🗺️ Roadmap
-
-### Phase 1: Core Features ✅
-- [x] User authentication & authorization
-- [x] Product catalog with search
-- [x] Shopping cart functionality
-- [x] Checkout process
-- [x] Order management
-- [x] Admin dashboard
-
-### Phase 2: AI Features ✅
-- [x] Virtual Try-On (VTON)
-- [x] Intelligent chatbot
-
-### Phase 3: Enhancements 🚧
-- [ ] Product reviews & ratings
-- [ ] Wishlist functionality
-- [ ] Advanced filtering (price, size, color)
-- [ ] Email notifications
-- [ ] Social media integration
-- [ ] Complete Razorpay integration
-
-### Phase 4: Optimization 📅
-- [ ] Performance improvements
-- [ ] SEO optimization
-- [ ] Progressive Web App (PWA)
-- [ ] Mobile app (React Native)
-- [ ] Analytics dashboard
-- [ ] A/B testing
-
-### Phase 5: Advanced Features 🔮
-- [ ] AI product recommendations
-- [ ] Size recommendation engine
-- [ ] Style matching algorithm
-- [ ] Loyalty rewards program
-- [ ] Multi-language support
-- [ ] Multi-currency support
-
----
-
 ## 🤝 Contributing
 
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**!
