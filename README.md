@@ -22,26 +22,6 @@
 
 ---
 
-## 📸 Screenshots
-
-<div align="center">
-
-### 🏠 Home Page
-*Beautiful landing page with animated sections and category cards*
-
-### 🛍️ Product Catalog
-*Browse 500+ premium fashion products with advanced filtering*
-
-### 🤖 AI Virtual Try-On
-*Revolutionary technology to visualize products before purchase*
-
-### 💬 Intelligent Chatbot
-*24/7 automated assistance with smart responses*
-
-</div>
-
----
-
 ## ✨ Features
 
 ### 🛒 E-Commerce Core
