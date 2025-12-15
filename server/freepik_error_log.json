@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-12-14T15:25:44.228Z",
+  "status": 404,
+  "statusText": "Not Found",
+  "data": {
+    "message": "Task not found"
+  },
+  "headers": {
+    "content-type": "application/json",
+    "x-ratelimit-limit": "5",
+    "x-ratelimit-remaining": "4",
+    "x-ratelimit-reset": "1",
+    "x-request-id": "ak-06a5da6ed4c4d39567733fc7ced43086",
+    "content-length": "48",
+    "vary": "Accept-Encoding",
+    "expires": "Sun, 14 Dec 2025 15:25:44 GMT",
+    "cache-control": "max-age=0, no-cache, no-store",
+    "pragma": "no-cache",
+    "date": "Sun, 14 Dec 2025 15:25:44 GMT",
+    "connection": "keep-alive",
+    "alt-svc": "h3=\":443\"; ma=93600",
+    "strict-transport-security": "max-age=31536000 ; includeSubDomains ; preload"
+  }
+}
